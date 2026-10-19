@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_opamp_trim (
+module tt_um_ktm0228_opamp_trim (
     input  wire       VGND,
     input  wire       VDPWR,    // 1.8v power supply
 //    input  wire       VAPWR,    // 3.3v power supply
