@@ -1,5 +1,5 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
-# IDHCSAH1 trimmed op-amp, SKY130 port (tt_um_ktm0228_opamp_trim)
+# Trimmed op-amp, SKY130 port (tt_um_ktm0228_opamp_trim)
 
 A port of the trimmed two-stage op-amp of GF 45RFE to Tiny Tapeout SKY130, programmed by the same 40-bit serial word as the original chip.
 ---
